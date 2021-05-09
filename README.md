@@ -21,7 +21,7 @@ Redes Sociales:
 - Facebook: https://www.facebook.com/OpenSourceUC/
 - Twitter: https://twitter.com/OpensourceUc
 - LinkedIn: https://www.linkedin.com/company/open-source-uc/
-
+- Github: https://github.com/open-source-uc/
 
 Canales comunicacion equipo
 - Discord
