@@ -19,12 +19,16 @@
 Redes Sociales:
 - Instagram: https://www.instagram.com/opensource.uc/
 - Facebook: https://www.facebook.com/OpenSourceUC/
-- Twitter: @OpensourceUc
+- Twitter: https://twitter.com/OpensourceUc
 - LinkedIn: https://www.linkedin.com/company/open-source-uc/
+
+
 Canales comunicacion equipo
 - Discord
 - Telegram
 - GoogleCalendar
+
+
 Emails: 
 - social@osuc.dev
 - contacto@osuc.dev
