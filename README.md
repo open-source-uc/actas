@@ -14,3 +14,22 @@
   - En especial el commit mas apropiado seria `git commit -m "docs: add record of 2021-04-11 meeting"`
 - Los directorios :file_folder: deben mantenerse coherentes durante cada commit.
 - Los commits **idealmente** deben ser en ingles.
+
+
+## Información relevante
+Redes Sociales:
+- Instagram: https://www.instagram.com/opensource.uc/
+- Facebook: https://www.facebook.com/OpenSourceUC/
+- Twitter: https://twitter.com/OpensourceUc
+- LinkedIn: https://www.linkedin.com/company/open-source-uc/
+- Github: https://github.com/open-source-uc/
+
+Canales comunicacion equipo
+- Discord
+- Telegram
+- GoogleCalendar
+
+Emails: 
+- social@osuc.dev
+- contacto@osuc.dev
+- hello-world@osuc.dev
