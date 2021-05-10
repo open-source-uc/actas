@@ -28,7 +28,6 @@ Canales comunicacion equipo
 - Telegram
 - GoogleCalendar
 
-
 Emails: 
 - social@osuc.dev
 - contacto@osuc.dev
